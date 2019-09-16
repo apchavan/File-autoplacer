@@ -1,2 +1,9 @@
 # File-autoplacer
-Cross platform desktop app to keep "Downloads" directory on system clean &amp; managed.
+Automation to keep "Downloads" directory clean &amp; managed on given system (such as Linux, BSD, macOS, Windows etc).
+
+### Technologies:
+- [Python](https://www.python.org/) (>= 3.7)
+- [PyQt5](https://pypi.org/project/PyQt5/)
+
+*See '**requirements.txt**' for detailed information about all dependencies with their version used.*
+
