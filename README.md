@@ -1,3 +1,5 @@
+<p align="center"><img src="icons/app_logo.png" width="100px" height="100px"/></p>
+
 # File-autoplacer
 Automation to keep "Downloads" directory clean &amp; managed on given system (such as Linux, BSD, macOS, Windows etc).
 
