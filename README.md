@@ -1,7 +1,7 @@
 <p align="center"><img src="icons/app_logo.png" width="100px" height="100px"/></p>
 
-<center>File-autoplacer</center>
-Keep "**Downloads**" directory clean &amp; managed on given platform system (such as Linux, BSD, macOS, Windows etc).
+# File-autoplacer
+<p />Keep "**Downloads**" directory clean &amp; managed on given platform system (such as Linux, BSD, macOS, Windows etc).
 
 ### Technologies:
 - [Python](https://www.python.org/) (>= 3.7)
