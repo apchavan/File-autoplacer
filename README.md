@@ -1,7 +1,7 @@
 <p align="center"><img src="icons/app_logo.png" width="100px" height="100px"/></p>
 
 # File-autoplacer
-Automation to keep "Downloads" directory clean &amp; managed on given system (such as Linux, BSD, macOS, Windows etc).
+Keep "Downloads" directory clean &amp; managed on given platform system (such as Linux, BSD, macOS, Windows etc).
 
 ### Technologies:
 - [Python](https://www.python.org/) (>= 3.7)
@@ -9,3 +9,6 @@ Automation to keep "Downloads" directory clean &amp; managed on given system (su
 
 *See '**requirements.txt**' for detailed information about all dependencies with their version used.*
 
+### Application GUI screen:
+- **Main/launch screen with some animation:**
+<p align="center"><img src="AppScreens/Main_app.png"/></p>
