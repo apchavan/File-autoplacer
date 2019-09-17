@@ -12,7 +12,7 @@ Keep '**Downloads**' directory clean &amp; managed on given platform system (suc
 
 ### Application GUI screens:
 <p align="center">
-- **Main/launch screen with some animation:**
+<H3>Main/launch screen with some animation:</H3>
 <p align="center"><img src="AppScreens/Main_app.png" /></p>
 </p>
 
