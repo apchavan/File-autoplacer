@@ -131,7 +131,7 @@ class FileAutoplacer(QWidget):
         result = info.exec_()
         # if result == QMessageBox.Ok:
         info.done(1)
-    
+
     def _exclusions_clicked(self):
         ''' Show dialog to choose exclusion between 'File' or 'Directory'. '''
         exclusion = QMessageBox(self)
