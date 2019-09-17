@@ -11,8 +11,10 @@ Keep '**Downloads**' directory clean &amp; managed on given platform system (suc
 *See '**requirements.txt**' for detailed information about all dependencies with their version used.*
 
 ### Application GUI screens:
+<p align="center">
 - **Main/launch screen with some animation:**
 <p align="center"><img src="AppScreens/Main_app.png" /></p>
+</p>
 
 - **Systemtray app icon (added only if systemtray is available):**
 <p align="center"><img src="AppScreens/Systemtray_app_icon.png" /></p>
