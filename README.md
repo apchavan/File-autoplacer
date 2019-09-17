@@ -22,6 +22,7 @@ Keep '**Downloads**' directory clean &amp; managed on given platform system (suc
 <H4 align="center">Systemtray app icon menu options (only if systemtray icon was added):</H4>
 <p align="center"><img src="AppScreens/Systemtray_icon_menu_options.png" /></p>
 
+<BR />
 <H4 align="center">"Start monitoring" function:</H4>
 <p align="center"><img src="AppScreens/Start_Function.png" width="375px" height="300px" /></p>
 
