@@ -15,7 +15,7 @@ Keep '**Downloads**' directory clean &amp; managed on given platform system (suc
 <p align="center"><img src="AppScreens/Main_app.png" /></p>
 
 - **Systemtray app icon (added only if systemtray is available):**
-<p align="left"><img src="AppScreens/Systemtray_app_icon.png" /></p>
+<img src="AppScreens/Systemtray_app_icon.png" />
 
 - **Systemtray app icon menu options (only if systemtray icon was added):**
 <p align="left"><img src="AppScreens/Systemtray_icon_menu_options.png" /></p>
