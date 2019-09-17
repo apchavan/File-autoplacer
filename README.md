@@ -15,22 +15,22 @@ Keep '**Downloads**' directory clean &amp; managed on given platform system (suc
 <p align="center"><img src="AppScreens/Main_app.png" /></p>
 
 - **Systemtray app icon (added only if systemtray is available):**
-<img src="AppScreens/Systemtray_app_icon.png" />
+<p align="center"><img src="AppScreens/Systemtray_app_icon.png" /></p>
 
 - **Systemtray app icon menu options (only if systemtray icon was added):**
-<p align="left"><img src="AppScreens/Systemtray_icon_menu_options.png" /></p>
+<p align="center"><img src="AppScreens/Systemtray_icon_menu_options.png" /></p>
 
 - **"Start monitoring" function:**
-<p align="left"><img src="AppScreens/Start_Function.png" width="375px" height="300px" /></p>
+<p align="center"><img src="AppScreens/Start_Function.png" width="375px" height="300px" /></p>
 
 - **"About" function:**
-<p align="left"><img src="AppScreens/About_Function.png" width="395px" height="280px" /></p>
+<p align="center"><img src="AppScreens/About_Function.png" width="395px" height="280px" /></p>
 
 - **"Exclusions" function:**
-<p align="left"><img src="AppScreens/Exclusions_Function.png" width="380px" height="278px" /></p>
+<p align="center"><img src="AppScreens/Exclusions_Function.png" width="380px" height="278px" /></p>
 
 - **"Quit" function:**
-<p align="left"><img src="AppScreens/Quit_Function.png" width="350px" height="241px" /></p>
+<p align="center"><img src="AppScreens/Quit_Function.png" width="350px" height="241px" /></p>
 
 - **Finally well managed & clean "Downloads" directory on system:**
-<p align="left"><img src="AppScreens/Managed_downloads.png" width="680px" height="405px" /></p>
+<p align="center"><img src="AppScreens/Managed_downloads.png" width="680px" height="405px" /></p>
