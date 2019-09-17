@@ -117,15 +117,15 @@ class FileAutoplacer(QWidget):
 
     def _about_clicked(self):
         ''' Information box for 'About' button. '''
-        license_link = QLabel("<BR/> License: <a href='www.google.com'><B>GNU General Public License version-3</B></a>", self)
+        license_link = QLabel("<BR /> License: <a href='https://github.com/apchavan/File-autoplacer/blob/master/LICENSE'><B>MIT</B></a>", self)
         license_link.setOpenExternalLinks(True)
-        repo_link = QLabel("<BR/> Source: <a href='https://github.com/apchavan'><B>Repository</B></a>")
+        repo_link = QLabel("Source: <a href='https://github.com/apchavan/File-autoplacer'><B>Repository</B></a>")
         repo_link.setOpenExternalLinks(True)
         info = QMessageBox(self)
         info.setIcon(QMessageBox.Information)
         info.setWindowTitle("About application & developer")
         info.setText("<B>File autoplacer</B> keep '<B>Downloads</B>' directory on your system clean & managed automatically.")
-        info.setInformativeText("Developer: <B>Amey Chavan</B>" + license_link.text() + repo_link.text())
+        info.setInformativeText("Developer: <B>Amey Chavan</B>" + license_link.text() + ", " + repo_link.text())
         info.setStandardButtons(QMessageBox.Ok)
         # info.setDefaultButton(QMessageBox.Ok)
         result = info.exec_()
