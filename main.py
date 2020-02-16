@@ -40,7 +40,7 @@ class FileAutoplacer(QWidget):
             self._create_systemtray()                                     # Create systemtray icon with menu options.
         self._create_lockfile()                                           # Create lockfile to avoid multiple launching of application.
         self.show()
-    
+
     def _set_controls(self, window_width: int, window_height: int):
         ''' Adds other required controls on window. '''
         if self._start_button:
